@@ -1,18 +1,18 @@
-# Vendas — Pipeline e Execução (Power BI)
+# Vendas — Vendas e Margens (Power BI)
 
 ## Objetivo
-Consolidar dados de vendas e pipeline comercial para análise de
-conversão, desempenho por etapa, ticket médio e realização
-versus metas.
+Consolidação das vendas, detalhe por cliente, 
+segmento e região, resultados de vendas, 
+permitindo acompanhar funil e metas.
 
 ## Contexto do Projeto
 Projeto demonstrativo utilizando dados sintéticos estruturados
 para simular operações comerciais reais.
 
 ## Escopo Analítico
-- Pipeline por estágio
-- Conversão por etapa
-- Vendas realizadas
+- Total vendas e faturamento
+- Margens
+- Volume por Cliente
 - Metas comerciais
 
 ## Principais Indicadores
